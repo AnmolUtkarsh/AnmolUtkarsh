@@ -8,6 +8,7 @@
 - 🧑🏻‍💻 Full Stack Web Developer and Multi-Linguistic Programmer 🧿
 - Typing and Mechacial Keyboards Addict ⌨️👉🏻👈🏻
 - 🌏 Globally 31705th ranked on MonkeyType
+- 🧑🏻‍💻 Full Spectrum Cyber Security [Intermediate]
 
 <!---
 WhyISay/AnmolUtkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
