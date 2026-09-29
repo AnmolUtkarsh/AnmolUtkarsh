@@ -7,7 +7,7 @@
 - 🐦‍🔥 Hi, I’m @AnmolUtkarsh
 - 🧑🏻‍💻 Full Stack Web Developer and Multi-Linguistic Programmer 🧿
 - Typing and Mechacial Keyboards Addict ⌨️👉🏻👈🏻
-- 🌏 Globally 31705th ranked on MonkeyType
+- 🌏 Globally 26774th ranked on MonkeyType
 - 🧑🏻‍💻 Full Spectrum Cyber Security [Intermediate]
 
 <!---
