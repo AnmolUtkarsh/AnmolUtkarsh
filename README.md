@@ -5,6 +5,7 @@
 
 # Currently:
 - 🐦‍🔥 Hi, I’m @AnmolUtkarsh
+- Introvert
 - 🧑🏻‍💻 Full Stack Web Developer and Multi-Linguistic Programmer 🧿
 - Typing and Mechacial Keyboards Addict ⌨️👉🏻👈🏻
 - 🌏 Globally 26774th ranked on MonkeyType
