@@ -10,7 +10,7 @@
 - ⌨️ Typing and Mechanical Keyboards Addict 👉🏻👈🏻
 - 🌏 Globally 26774th ranked on MonkeyType
 - 🧑🏻‍💻 Full Spectrum Cyber Security Practitioner [Intermediate]
-- 💎 Almost 90% Repository on GitHub is Private, hence many projects are coming soon! 🧿
+- 💎 Almost 90% of the Repositories on GitHub is Private, hence many projects are coming soon! 🧿
 
 <!---
 WhyISay/AnmolUtkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
