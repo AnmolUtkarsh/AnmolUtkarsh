@@ -1,4 +1,4 @@
-# Previously:
+# Past:
 - 👋 Hi, I’m @WhyISay
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Ethical Hacking
