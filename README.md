@@ -3,7 +3,7 @@
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Ethical Hacking
 
-# Current:
+# Present:
 - 🐦‍🔥 Hi, I’m @AnmolUtkarsh
 - 🫥 Introvert
 - 🧑🏻‍💻 Full Stack Web Developer and Multi-Linguistic Programmer 🧿
